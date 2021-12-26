@@ -1,4 +1,4 @@
-#  Nama Proyek : Sentiment Analysis : Prediksi sentiment masyarakat menggunakan tweets dari twitter selama pandemi COVID-19 </u></b>
+#  Sentiment Analysis : Prediksi sentiment masyarakat menggunakan tweets dari twitter selama pandemi COVID-19 </u></b>
 ## Anggota :
 1. Dhiemas Ady Kusuma Wardana 123190116
 2. Reza Pramudya Bagaskara 123190103
